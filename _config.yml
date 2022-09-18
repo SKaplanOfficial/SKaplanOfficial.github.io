@@ -1,0 +1,10 @@
+title: Stephen Kaplan's Makeshift Blog
+author: Stephen Kaplan
+
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - macOS Automation Resources: "https://github.com/SKaplanOfficial/macOS-Automation-Resources"
+    - macOS URL Schemes: "https://github.com/SKaplanOfficial/macOS-URL-Schemes-for-macOS-Applications"
+
+theme: minima
