@@ -17,7 +17,7 @@ date: 2022-09-16
   <tr>
     <td>Scriptable</td>
     <td>No</td>
-  </td>
+  </tr>
   <tr>
     <td>Description</td>
     <td>An app for designers and developers that makes it easy to find/visualize colors, gradients, color palletes, symbols, and more.</td>
