@@ -25,7 +25,7 @@ date: 2022-09-16
   <tr>
     <td>Image</td>
     <td><img width="1800" alt="QLookup" src="https://user-images.githubusercontent.com/7865925/190922245-e05ac728-3b91-43f8-8468-51674dca5a0e.png"></td>
-  </td>
+  </tr>
 </table>
 
 # [Bonsai Album](http://andrewnicolle.com/all_apps/bonsai-album-for-mac)
