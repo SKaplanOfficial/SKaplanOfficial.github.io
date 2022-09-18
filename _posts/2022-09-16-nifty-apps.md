@@ -21,7 +21,7 @@ date: 2022-09-16
   <tr>
     <td>Description</td>
     <td>An app for designers and developers that makes it easy to find/visualize colors, gradients, color palletes, symbols, and more.</td>
-  </td>
+  </tr>
   <tr>
     <td>Image</td>
     <td><img width="1800" alt="QLookup" src="https://user-images.githubusercontent.com/7865925/190922245-e05ac728-3b91-43f8-8468-51674dca5a0e.png"></td>
