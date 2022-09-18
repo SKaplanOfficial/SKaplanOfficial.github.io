@@ -4,13 +4,29 @@ date: 2022-09-16
 ---
 
 # [QLookup](https://apps.apple.com/us/app/qlookup-design-develop/id1572671565)
-| Property         | Value |
-|--------------|-----------|
-| Category | Developer Tool |
-| Price | Free basic tier, $2.99 one-time upgrade |
-| Scriptable | No |
-| Description | An app for designers and developers that makes it easy to find/visualize colors, gradients, color palletes, symbols, and more.  |
-| Image | <img width="1800" alt="QLookup" src="https://user-images.githubusercontent.com/7865925/190922245-e05ac728-3b91-43f8-8468-51674dca5a0e.png"> |
+
+<table>
+  <tr>
+    <td>Category</td>
+    <td>Developer Tool</td>
+  </tr>
+  <tr>
+    <td>Price</td>
+    <td>Free basic tier, $2.99 one-time upgrade</td>
+  </tr>
+  <tr>
+    <td>Scriptable</td>
+    <td>No</td>
+  </td>
+  <tr>
+    <td>Description</td>
+    <td>An app for designers and developers that makes it easy to find/visualize colors, gradients, color palletes, symbols, and more.</td>
+  </td>
+  <tr>
+    <td>Image</td>
+    <td><img width="1800" alt="QLookup" src="https://user-images.githubusercontent.com/7865925/190922245-e05ac728-3b91-43f8-8468-51674dca5a0e.png"></td>
+  </td>
+</table>
 
 # [Bonsai Album](http://andrewnicolle.com/all_apps/bonsai-album-for-mac)
 | Property         | Value |
@@ -19,7 +35,8 @@ date: 2022-09-16
 | Price | $14.99, free trial available |
 | Scriptable | No |
 | Description | An app for inventorying bonsai trees and tracking their growth over time.  |
-| Image | ![BonsaiAlbum](https://user-images.githubusercontent.com/7865925/190922324-2af3f18f-3e6d-4c53-8776-0c1aa00697ed.png) |
+| Image | ![BonsaiAlbum](https://user-images.githubusercontent.com/7865925/190922324-2af3f18f-3e6d-4c53-8776-0c1aa00697ed.png) |<img width="1800" alt="image" src="https://user-images.githubusercontent.com/7865925/190923252-7129292c-18cc-49a1-b6aa-970ff9942239.png">
+
 
 # [JustTrack](https://apps.apple.com/us/app/justtrack-numbers-habits/id1595510904)
 | Property         | Value |
