@@ -66,7 +66,7 @@ date: 2022-09-28
   </tr>
   <tr>
     <td>Image</td>
-    <td><img width="500" alt="Screenshot of Usage" src="https://user-images.githubusercontent.com/7865925/192907712-6317f1b7-0ab1-488e-b016-6c3f3cdbfe67.png"></td>
+    <td><img width="500" alt="Screenshot of Usage" src="https://user-images.githubusercontent.com/7865925/192911029-7de1c735-ac31-4318-a3bc-8a2fb410bcd3.png"></td>
   </tr>
 </table>
 
