@@ -6,14 +6,18 @@ date: 2022-09-29
 This is a regularly updated post featuring macOS menu bar apps organized by area of focus.
 
 # Contacts
+
 - [Cardhop](https://apps.apple.com/us/app/cardhop/id1290358394?mt=12)
 - [Fast Address Book](https://apps.apple.com/us/app/fast-address-book/id520798623?mt=12)
 
 # Decoration
+
 - [OneThing](https://apps.apple.com/us/app/one-thing/id1604176982?mt=12)
+- [Screen Bandit](https://apps.apple.com/us/app/screen-bandit/id1043565969?mt=12)
 - [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator)
 
 # Developer Utilities
+
 - [Airtool](https://www.intuitibits.com/products/airtool2/)
 - [Anvil](https://www.macupdate.com/app/mac/55980/anvil)
 - [AnyBar](https://github.com/tonsky/AnyBar)
@@ -24,6 +28,7 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [FileWatch](https://github.com/jawngee/FileWatch)
 - [gitmojiBar](https://apps.apple.com/us/app/gitmojibar-gitmoji-menubar/id1609716594?mt=12)
 - [IPInfo](https://ipinfo.benny.fun)
+- [KubeContext](https://github.com/turkenh/KubeContext)
 - [MacWeb Servers](https://apps.apple.com/us/app/macweb-servers/id1469079631?mt=12)
 - [MNU](https://smittytone.net/mnu/index.html)
 - [Mob Timer](https://apps.apple.com/us/app/mob-timer/id1594924856?mt=12)
@@ -34,9 +39,11 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [Streaker](https://github.com/jamieweavis/streaker)
 
 ## Cloud
+
 - [Cloud Control](https://apps.apple.com/us/app/cloud-control-for-ec2/id1550877675?mt=12)
 
 ## Code/Text Snippets
+
 - [Cacher](https://www.cacher.io)
 - [CodeGofer](https://apps.apple.com/us/app/codegofer/id730254832?mt=12)
 - [Codelime](https://apps.apple.com/us/app/codelime-snippet-dev-tools/id1622145140)
@@ -47,6 +54,8 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [SourceDrop](https://apps.apple.com/us/app/sourcedrop/id520820413?mt=12)
 
 ## Git & GitHub
+
+- [BitActions](https://github.com/paulononaka/bitactions)
 - [Contributions](https://apps.apple.com/us/app/contributions-graphs-in-menu/id1622632080?mt=12)
 - [GitGrass](https://apps.apple.com/us/app/gitgrass/id1501139279?mt=12)
 - [Gitify](https://www.gitify.io)
@@ -54,6 +63,7 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [Git Streaks for GitHub](https://apps.apple.com/us/app/git-streaks-for-github/id1525795950?mt=12)
 - [Jandi](https://apps.apple.com/us/app/jandi-growth-your-code/id1551460285?mt=12)
 - [Neat](https://neat.run)
+- [Noti](https://github.com/ye11ow/noti)
 - [OhMyPullRequests](https://github.com/luin/OhMyPullRequests)
 - [PR Ninja](https://apps.apple.com/us/app/pr-ninja/id1214506963?mt=12)
 - [PR Tool for BitBucket](https://apps.apple.com/us/app/pr-tool-for-bitbucket/id1536336246?mt=12)
@@ -64,22 +74,28 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [Trailer](https://ptsochantaris.github.io/trailer/)
 
 ## Package Management
+
 - [Brewlet](https://github.com/zkokaja/Brewlet)
 
 # Entertainment
+
 ## Games
+
 - [Learn Flags - Menu Edition](https://apps.apple.com/us/app/learn-flags-menu-edition/id1456617441?mt=12)
 - [Minesweeper Menu Bar](https://apps.apple.com/us/app/minesweeper-menu-bar/id1570877375?mt=12)
 - [Minesweepey](https://getniceapps.com/minesweepey)
 - [TicTacToe - Menu Edition](https://apps.apple.com/us/app/tictactoe-menu-edition/id1158666745?mt=12)
 
 ## Images/GIFs
+
 - [Gifox](https://gifox.app)
+- [insertGif](https://insertgif.com)
 - [Jiffy](https://apps.apple.com/us/app/jiffy/id1502527999?mt=12)
 - [NASA Picture of the Day](https://nasapicture.com)
 - [Recordit](https://recordit.co)
 
 ## Music
+
 - [Background Music](https://github.com/kyleneideck/BackgroundMusic)
 - [Baritone](https://tma02.github.io/baritone/)
 - [BarTunes](https://apps.apple.com/us/app/bartunes/id444425546?mt=12)
@@ -87,6 +103,7 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [Carol](https://github.com/AnaghSharma/Carol)
 - [Cumulus](http://gillesdemey.github.io/Cumulus/)
 - [Denied](https://www.dangercove.com/denied/)
+- [dropandplay](https://apps.apple.com/us/app/dropandplay/id1302844224?mt=12)
 - [Finely Tuned](https://apps.apple.com/us/app/finely-tuned/id884315321?mt=12)
 - [Jukebox](https://www.jaysce.dev/projects/jukebox)
 - [LibreSpot](https://widgetworx.com/projects/libre_spot.html)
@@ -96,12 +113,16 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [Menu Spot II](https://widgetworx.com/projects/menu_spot.html)
 - [Music Bar](https://musa11971.github.io/Music-Bar/)
 - [MusicBuddy](https://apps.apple.com/us/app/musicbuddy/id563706976?mt=12)
+- [Music Paradise Player MP3](https://apps.apple.com/us/app/music-paradise-player-mp3/id1053752846?mt=12)
+- [NepTunes](https://apps.apple.com/us/app/neptunes/id1006739057?mt=12)
 - [PlayStatus](https://github.com/nbolar/PlayStatus)
+- [Scrobbles for Last.fm](https://apps.apple.com/us/app/scrobbles-for-last-fm/id1344679160?mt=12)
 - [Shazam](https://apps.apple.com/us/app/shazam-identify-songs/id897118787?mt=12)
 - [Silicio Mini Player](https://apps.apple.com/us/app/silicio-mini-player/id933627574?mt=12)
 - [SmashTunes](https://apps.apple.com/us/app/smashtunes/id452120723?mt=12)
 - [Soft Player](https://apps.apple.com/us/app/soft-player/id1573149282?mt=12)
 - [SongBar](https://apps.apple.com/us/app/songbar/id1536462225?mt=12)
+- [Song Rating](https://apps.apple.com/us/app/song-rating/id1471420267?mt=12)
 - [Spotica Menu](https://apps.apple.com/us/app/spotica-menu/id570549457?mt=12)
 - [Spotish](https://retina.studio/spotish/)
 - [SpotMenu](https://kmikiy.github.io/SpotMenu/)
@@ -110,34 +131,49 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [TrayPlay](https://mborgerson.com/trayplay/)
 
 ## Movies/Videos
+
 - [MenuTube](https://menutube.rednuclearmonkey.com)
 - [Rando](https://apps.apple.com/us/app/rando-random-movie-suggester/id1633834467?mt=12)
 - [Tubist](https://apps.apple.com/us/app/tubist-menu-bar-for-youtube/id1603180719?mt=12)
 
 ## News
+
 - [Dev 10](https://github.com/sarthology/Dev10)
 - [Readify](https://apps.apple.com/us/app/readify/id1513518320?mt=12)
 
 ## Podcasts
+
 - [Arvocast](https://apps.apple.com/us/app/arvocast/id1521815885)
 - [Catch](https://github.com/mipstian/catch)
 - [Mame Cast](https://apps.apple.com/us/app/mame-cast-a-podcast-player/id1495516059)
 - [Mimir](https://apps.apple.com/us/app/mimir-powerful-podcasts/id1508343025)
 - [PodcastMenu](https://github.com/insidegui/PodcastMenu)
 
-### Radio/Radio-esque/Background Sounds
+## Radio/Radio-esque
+
+- [BGLiveRadio](https://apps.apple.com/us/app/bgliveradio/id452410967?mt=12)
+- [Das Deutschlandradio](https://apps.apple.com/us/app/das-deutschlandradio/id1042736341?mt=12)
+- [ElectroWave.FM](https://apps.apple.com/us/app/electrowave-fm/id924823057?mt=12)
+- [LadioCast](https://apps.apple.com/us/app/ladiocast/id411213048?mt=12)
+- [LEI Radio](https://apps.apple.com/us/app/lei-radio/id1447135655?mt=12)
+- [Lukicraft Radio](https://apps.apple.com/us/app/lukicraft-radio/id1482552272)
 - [myTuner Radio Pro](https://apps.apple.com/us/app/mytuner-radio-live-fm-stations/id881415018?mt=12)
-- [Qi FM](https://apps.apple.com/us/app/qi-fm-focus-relax-sounds/id1479696191?mt=12)
+- [NetRadio Estonia](https://apps.apple.com/us/app/netradio-estonia/id848340388?mt=12)
+- [NetRadio UK](https://apps.apple.com/us/app/netradio-uk/id878034996?mt=12)
 - [RadioBar](https://apps.apple.com/us/app/radiobar/id1608950369?mt=12)
+- [RadioBrowser Remote](https://apps.apple.com/us/app/radiobrowser-remote/id1044053483?mt=12)
+- [radioNED+](https://apps.apple.com/us/app/radioned/id1446942851?mt=12)
 - [SonaFM miniplayer](https://apps.apple.com/us/app/somafm-miniplayer/id1303140142?mt=12)
-- [Soundtrack Player](https://apps.apple.com/us/app/soundtrack-player/id1114799709)
 
 ## Sports
+
 - [CricLive](https://apps.apple.com/us/app/criclive-live-cricket-scores/id1571050470?mt=12)
+- [GP Calendar](https://cyrilniobe.gumroad.com/l/gp-calendar)
 - [Live Score](https://apps.apple.com/us/app/live-score-watch-game-at-work/id1441205865?mt=12)
 - [NBA Bar](https://github.com/homerchen19/nba-bar)
 
 # Health
+
 - [BreatherBar](https://apps.apple.com/us/app/breatherbar/id1569976185?mt=12)
 - [Breather Break Reminder](https://apps.apple.com/us/app/breather-break-reminder/id1629226439?mt=12)
 - [Eye Exercise Reminder](https://apps.apple.com/us/app/eye-exercise-reminder/id1475399661?mt=12)
@@ -152,17 +188,21 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [Pollution Monitor](https://apps.apple.com/us/app/pollution-monitor/id1197195842?mt=12)
 - [Rest for Eyes](https://apps.apple.com/us/app/rest-for-eyes/id1549439180?mt=12)
 - [Simon Say - Activity Reminder](https://apps.apple.com/us/app/simon-says-activity-reminder/id1160131071?mt=12)
+- [StandUp](https://apps.apple.com/us/app/standup/id1439378680?mt=12)
 - [Twenny](https://github.com/tagwohl/twenny)
 - [UP - Break Reminder](https://apps.apple.com/us/app/up-break-reminder/id1089047671?mt=12)
 
 # News
+
 ## RSS
+
 - [baRSS](https://github.com/relikd/baRSS)
 - [Feed Notifier](https://apps.apple.com/us/app/feed-notifier/id571150542?mt=12)
 - [Feedy](https://apps.apple.com/us/app/feedy-rss-client/id588288104?mt=12)
 - [RSS Bot](https://apps.apple.com/us/app/rss-bot-news-notifier/id605732865?mt=12)
 
 # Productivity
+
 - [AnyDrop](https://yuanjoy.com/anydrop/)
 - [Brandy](https://getbrandy.io)
 - [Droplr](https://apps.apple.com/us/app/droplr/id498672703?mt=12)
@@ -171,12 +211,21 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [Pliim](https://pliim.app)
 
 ## Activity Tracking
+
 - [Activity Logger](https://github.com/mazgi/activity-logger)
 - [Keyboard Activity Tracker](https://github.com/aasimk2000/keyboardActivityTracker)
 - [RescueTime](https://www.rescuetime.com)
 - [SelfControl](https://selfcontrolapp.com)
 
+### Background Sounds
+
+- [Chill Lite](https://apps.apple.com/us/app/chill-lite/id434212746?mt=12)
+- [DeepFocus](https://apps.apple.com/us/app/deepfocus-pomodoro-sounds/id1628457656)
+- [Qi FM](https://apps.apple.com/us/app/qi-fm-focus-relax-sounds/id1479696191?mt=12)
+- [Soundtrack Player](https://apps.apple.com/us/app/soundtrack-player/id1114799709)
+
 ## Calendar
+
 - [CalBar](https://apps.apple.com/us/app/calbar-a-transparent-calendar/id1626290029?mt=12)
 - [Calendars](https://apps.apple.com/us/app/calendars/id415181149?mt=12)
 - [Calendar with Weather](https://apps.apple.com/us/app/calendar-with-weather/id1585498568?mt=12)
@@ -185,6 +234,7 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [Clean Calendar](https://apps.apple.com/us/app/clean-calendar/id1432277471?mt=12)
 - [Dato](https://sindresorhus.com/dato)
 - [Day-O](https://shauninman.com/archive/2020/04/08/day_o_mac_menu_bar_clock_for_catalina)
+- [Days Left Lite](https://apps.apple.com/us/app/days-left-lite/id1242931529?mt=12)
 - [EzyCal](https://appyogi.com/webapps/index.php?product_id=48)
 - [Fantastical](https://apps.apple.com/us/app/fantastical-calendar/id975937182?mt=12)
 - [FloatCal](https://apps.apple.com/us/app/floatcal-a-quick-access-calendar-on-the-menu-bar/id1092837133?mt=12)
@@ -194,6 +244,7 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [Itsycal](https://www.mowglii.com/itsycal/)
 - [Jump In Meeting](https://apps.apple.com/us/app/jump-in-meeting-zoom-google/id1506451016)
 - [LatinCalendar](https://apps.apple.com/us/app/latincalendar/id1266565399?mt=12)
+- [LatinTime](https://apps.apple.com/us/app/latintime/id1286643207?mt=12)
 - [Lilius](https://apps.apple.com/us/app/lilius/id1459465139?mt=12)
 - [Quick View Calendar](https://apps.apple.com/us/app/quick-view-calendar/id1087080039?mt=12)
 - [Mayday](https://apps.apple.com/us/app/mayday-the-calendar-assistant/id1473168024)
@@ -216,15 +267,21 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [Up Next](https://apps.apple.com/us/app/up-next/id1355117041?mt=12)
 
 ## Email
+
+- [App for Gmail](https://apps.apple.com/us/app/app-for-gmail-email-menu-tab/id701690884?mt=12)
 - [Kiwi for Gmail](https://www.kiwiforgmail.com)
 - [Mail Unread Menu](http://loganrockmore.com/MailUnreadMenu/)
+- [MenuBarGmail](https://github.com/rcmdnk/MenuBarGmail)
 - [Mia for Gmail](https://apps.apple.com/us/app/mia-for-gmail/id851622884?mt=12)
 - [Spamify](https://muhammedkpln.github.io/spamify/)
 
 ## Notes
+
+- [Air Sketch Screen Notes](https://apps.apple.com/us/app/air-sketch-screen-notes/id1286744480?mt=12)
 - [Curiota](https://apps.apple.com/us/app/curiota/id1038088531?mt=12)
 - [FiveNotes](https://www.apptorium.com/fivenotes)
 - [Jot](https://github.com/tiivik/Jot)
+- [Klipped](https://apps.apple.com/us/app/klipped/id1053809492?mt=12)
 - [Memo](https://apps.apple.com/us/app/memo-sticky-notes/id1212409035?mt=12)
 - [Memory Bar](https://apps.apple.com/us/app/memory-bar-note-app-menu-bar/id1590665074?mt=12)
 - [MenuNote](https://apps.apple.com/us/app/menu-note/id1576152173?mt=12)
@@ -245,17 +302,20 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [tyke](https://tyke.app)
 
 ### Audio Notes
+
 - [AudioNotes](https://audionot.es)
 - [eXtra Voice Recorder](https://apps.apple.com/us/app/extra-voice-recorder/id514587383?mt=12)
 - [Quick Note](https://apps.apple.com/us/app/quick-note-one-click-notes/id1472935217?mt=12)
 - [Recordia](https://sindresorhus.com/recordia)
 
 ### Sticky Notes
+
 - [iLove Sticky Notes](https://apps.apple.com/us/app/ilove-sticky-notes/id1096650860?mt=12)
 - [Quick Note](https://apps.apple.com/us/app/quick-note-one-click-notes/id1472935217?mt=12)
 - [Simple Antnotes](https://apps.apple.com/us/app/simple-antnotes/id846599902?mt=12)
 
 ## Productivity Aides
+
 - [ColorNoise](https://apps.apple.com/us/app/colornoise/id1640045375?mt=12)
 - [Focus](https://heyfocus.com)
 - [FocusBar](https://apps.apple.com/us/app/focusbar/id443439127?mt=12)
@@ -264,12 +324,14 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [Noizio](https://noiz.io)
 
 ## Task Management
+
 - [Any.do](https://apps.apple.com/us/app/any-do-to-do-list-calendar/id944960179?mt=12)
 - [Awesome To Do!](https://apps.apple.com/us/app/awesome-to-do/id1512658947?mt=12)
 - [Check Off](https://apps.apple.com/us/app/check-off-a-task-manager/id458418895?mt=12)
 - [Daily](https://apps.apple.com/us/app/daily-hours-time-tracker/id686910553?mt=12)
 - [Daily Menu](https://apps.apple.com/us/app/daily-menu-to-do-and-tasks/id1620968999?mt=12)
 - [DoOneThing](https://apps.apple.com/us/app/doonething-single-task-manager/id464910442?mt=12)
+- [Elisi Goal Planner & Tracker](https://apps.apple.com/us/app/elisi-goal-planner-tracker/id1406239881?mt=12)
 - [Focus Bar](https://apps.apple.com/us/app/focus-bar-quickly-add-todos/id1556900097?mt=12)
 - [MenuBarTODO](https://apps.apple.com/us/app/menubartodo/id1550343840?mt=12)
 - [MinimaList](https://apps.apple.com/us/app/minimalist-to-do-list-task/id1387764101?mt=12)
@@ -293,6 +355,7 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [WIP Menubar](https://apps.apple.com/us/app/wip-menubar/id1456413506?mt=12)
 
 ## Timers & Stopwatches
+
 - [Activity Timer](https://apps.apple.com/us/app/activity-timer/id808647808?mt=12)
 - [Aegis Timer](https://apps.apple.com/us/app/aegis-timer/id1513455399)
 - [Be Focused](https://apps.apple.com/us/app/be-focused-focus-timer/id973134470?mt=12)
@@ -353,6 +416,7 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [Tadama](https://apps.apple.com/us/app/tadama-workflow-timer/id1415817706?mt=12)
 - [Take a break](https://apps.apple.com/us/app/take-a-break-timer-reminder/id1457158844?mt=12)
 - [Take Five](http://takefiveapp.com)
+- [Time Left Until](https://apps.apple.com/us/app/time-left-until/id1577097040?mt=12)
 - [Timer easy](https://apps.apple.com/us/app/timer-easy/id1591058705?mt=12)
 - [Timer RH](https://apps.apple.com/us/app/timer-rh/id929960914?mt=12)
 - [Timey](https://www.getniceapps.com/timey-3)
@@ -365,10 +429,12 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [Yosanity Taismerk](https://apps.apple.com/us/app/yosanity-taismerk/id1532878474?mt=12)
 
 ### Alarms
+
 - [Alarmey](https://www.getniceapps.com/alarmey)
 - [Wake Up Clock](https://apps.apple.com/us/app/wake-up-clock-desktop-alarm/id1201115889?mt=12)
 
 ### Awareness Timers
+
 - [Aware](https://apps.apple.com/us/app/aware/id1082170746?mt=12)
 - [Awareness Timer](https://apps.apple.com/us/app/awareness-timer/id1497695227?mt=12)
 - [Dojo](https://apps.apple.com/us/app/menu-bar-reminder-dojo/id1605782460?mt=12)
@@ -377,12 +443,15 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [Pandan](https://apps.apple.com/us/app/pandan/id1569600264?mt=12)
 - [Rest](https://www.macupdate.com/app/mac/50513/rest)
 - [SaveMyEyes](https://github.com/masich/SaveMyEyes)
+- [TimeBomb](https://apps.apple.com/us/app/timebomb-productivity-app/id1512557234)
 - [Time Out](https://apps.apple.com/us/app/time-out-break-reminders/id402592703?mt=12)
 - [Timeow](https://github.com/f-person/timeow-mac)
+- [UP - Break Reminder](https://apps.apple.com/us/app/up-break-reminder/id1089047671?mt=12)
 - [zClock Lite](https://apps.apple.com/us/app/zclock-lite-topmost-clock/id1489475245?mt=12)
 - [1440](https://apps.apple.com/us/app/1440-minutes-left-today/id1483764819?mt=12)
 
 ### Time Tracking
+
 - [AutoTimer](https://apps.apple.com/us/app/autotimer-hours-counter/id1350158432?mt=12)
 - [Billing Timer](https://apps.apple.com/us/app/billing-timer/id892142032?mt=12)
 - [Break - Auto Time Manager](https://apps.apple.com/us/app/break-auto-time-manager/id1273243144?mt=12)
@@ -393,22 +462,26 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [Fabit](https://apps.apple.com/us/app/fabit-focus-habit-timer/id1402938906?mt=12)
 - [Focus, commit](https://apps.apple.com/us/app/focus-commit-pomodoro-timer/id1488575394)
 - [Harvest](https://www.getharvest.com/integrations)
+- [Kronos Time Tracker](https://apps.apple.com/us/app/kronos-time-tracker/id1069739356?mt=12)
 - [Light of Work Time Control](https://apps.apple.com/us/app/light-of-work-time-control/id1463072217?mt=12)
 - [Me Focused](https://apps.apple.com/us/app/me-focused/id1546276197?mt=12)
 - [Mini Time Tracker](https://apps.apple.com/us/app/mini-time-tracker/id1633674659?mt=12)
 - [Prepend](https://apps.apple.com/us/app/prepend/id1584128314?mt=12)
 - [Recess](https://apps.apple.com/us/app/recess/id621451282?mt=12)
 - [RestMinder](https://apps.apple.com/us/app/restminder/id1575673623?mt=12)
+- [Ruddr](https://apps.apple.com/us/app/ruddr/id1575577714?mt=12)
 - [Taptile Timetracking 3](https://apps.apple.com/us/app/taptile-timetracking-3/id1288926259?mt=12)
 - [Tempodo](https://apps.apple.com/us/app/tempodo-to-do-list/id955276947?mt=12)
 - [Thiro](https://apps.apple.com/us/app/thiro/id1555982483)
 - [Tick](https://apps.apple.com/us/app/tick-time-tracking/id993200850?mt=12)
 - [TickTick](https://apps.apple.com/us/app/ticktick-to-do-list-calendar/id966085870?mt=12)
+- [Tim](https://apps.apple.com/us/app/tim-time-tracker/id1449619230?mt=12)
 - [Timelime](https://apps.apple.com/us/app/timelime-time-tracking/id589698946?mt=12)
 - [Timemator Basic](https://apps.apple.com/us/app/timemator-basic/id1458451198?mt=12)
 - [TimeMatters](https://apps.apple.com/us/app/timematters-time-tracker/id1463875140?mt=12)
 - [Time Tracking Pro](https://apps.apple.com/us/app/time-tracking-pro/id1461715351?mt=12)
 - [Toggl Track](https://apps.apple.com/us/app/toggl-track-hours-time-log/id1291898086)
+- [Turtle](https://apps.apple.com/us/app/turtle-time-tracker-timer/id1522772370?mt=12)
 - [Tyme](https://apps.apple.com/us/app/tyme-3-time-tracking/id1461456897?mt=12)
 - [WabiTime](https://apps.apple.com/us/app/wabitime/id1350307977)
 - [Workday Timer](https://apps.apple.com/us/app/workday-timer/id1545460712?mt=12)
@@ -416,14 +489,18 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [Zonebox](https://apps.apple.com/us/app/zonebox/id597870795?mt=12)
 
 # Social Media
+
 - [Per mille - Social metrics](https://apps.apple.com/us/app/per-mille-social-metrics/id1518488645?mt=12)
 - [Vu Instagram Client](https://datastills.com/vu/)
 
 # System Status
+
 ## Local System Status
+
 - [Activa](https://apps.apple.com/us/app/activa-app-monitor/id1469755521?mt=12)
 - [AlDente](https://apphousekitchen.com)
 - [Am I Online?](https://apps.apple.com/us/app/am-i-online-internet-status/id1229643033?mt=12)
+- [Apple Juice](https://github.com/raphaelhanneken/apple-juice)
 - [Bandwidth+](https://apps.apple.com/us/app/bandwidth/id490461369?mt=12)
 - [Battery Guard](https://apps.apple.com/us/app/battery-guard/id520676829?mt=12)
 - [Battery HUD](https://apps.apple.com/us/app/battery-hud-on-screen-display/id1449748428?mt=12)
@@ -457,6 +534,7 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [IP Broadcaster](https://apps.apple.com/us/app/ip-broadcaster/id520207162?mt=12)
 - [Istatistica Pro](https://www.imagetasks.com/istatistica/pro/)
 - [Juice](https://github.com/brianmichel/Juice)
+- [Loading](https://bonzaiapps.com/loading/)
 - [Menubar Stats](https://www.seense.com/menubarstats/)
 - [MenuMeters](https://member.ipmu.jp/yuji.tachikawa/MenuMetersElCapitan/)
 - [Microphone Volume Monitor](https://apps.apple.com/us/app/microphone-volume-monitor/id856266530?mt=12)
@@ -464,6 +542,7 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [NetSpeedMonitor](https://apps.apple.com/us/app/netspeedmonitor/id1575839740?mt=12)
 - [NetworkSpeed](https://apps.apple.com/us/app/networkspeed/id1518144616?mt=12)
 - [NixieStats](https://apps.apple.com/us/app/nixiestats/id1486093880?mt=12)
+- [Outlet](https://outlet.moapp.software)
 - [Phantasmic](https://www.whatroute.net/phantasmic.html)
 - [Pingr](https://getpingr.app)
 - [Power On Time](https://apps.apple.com/us/app/power-on-time/id1134653998?mt=12)
@@ -492,6 +571,7 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [yFi](https://apps.apple.com/us/app/yfi-wifi-companion/id1526841848?mt=12)
 
 ### External System Status
+
 - [Beaconly](https://apps.apple.com/us/app/beaconly/id1520138793?mt=12)
 - [Cloud Battery](https://apps.apple.com/us/app/cloud-battery/id1481005137?mt=12)
 - [Instatus Out](https://apps.apple.com/us/app/instatus-out/id1552633430?mt=12)
@@ -501,6 +581,7 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [stts](https://apps.apple.com/us/app/stts/id1187772509?mt=12)
 
 #### Ping
+
 - [HowOnline](https://apps.apple.com/us/app/howonline-monitor-your-wifi-status/id1086483165?mt=12)
 - [LoLPing Helper](https://apps.apple.com/us/app/lolping-helper/id1170984083?mt=12)
 - [PingBar](https://apps.apple.com/us/app/pingbar/id432088983?mt=12)
@@ -509,28 +590,53 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [Uptime](https://apps.apple.com/us/app/uptime-webs-health-check/id1602506545?mt=12)
 
 # Utilities
+
+- [Almighty - Powerful Tweaks](https://apps.apple.com/us/app/almighty-powerful-tweaks/id1576440429?mt=12)
+
 ## Camera
+
 - [Hand Mirror](https://apps.apple.com/us/app/hand-mirror/id1502839586?mt=12)
 - [Pearl](https://apps.apple.com/us/app/pearl-mirror-in-your-menubar/id1152715357?mt=12)
 - [Scopie](https://apps.apple.com/us/app/scopie/id1027457763?mt=12)
 
 ## Clipboard
+
+- [CCopy](https://apps.apple.com/us/app/ccopy-clipboard-manager-pro/id1524572532?mt=12)
 - [Clear Clipboard](https://apps.apple.com/us/app/clear-clipboard/id870330316?mt=12)
 - [Clipbar](https://github.com/this-fifo/clipbar)
 - [Clipber](https://apps.apple.com/us/app/clipber/id1462256228?mt=12)
+- [Clipboard: Copy, Paste Clips](https://apps.apple.com/us/app/clipboard-copy-paste-clips/id1443858830?mt=12)
+- [Clipboard Extension](https://apps.apple.com/us/app/clipboard-extension/id1554229045?mt=12)
+- [Clipboard - Paste Keyboard](https://apps.apple.com/us/app/clipboard-paste-keyboard/id1514741180)
 - [Clipboards](https://apps.apple.com/us/app/clipboards/id1371425905?mt=12)
 - [Clipbox](https://apps.apple.com/us/app/clipbox-universal-clipboard/id1573943451)
 - [ClipEye](https://apps.apple.com/us/app/clipeye/id1577402094?mt=12)
+- [ClipPaste](https://apps.apple.com/us/app/clippaste-universal-clipboard/id1521211189)
+- [ClipperTool](https://apps.apple.com/us/app/clippertool/id1645465613?mt=12)
 - [Clippings](https://clippings.moapp.software)
 - [Clipy](https://clipy-app.com)
 - [CloudClip Manager](https://apps.apple.com/us/app/cloudclip-manager/id563362017?mt=12)
 - [Copies Savor - Clipboard](https://apps.apple.com/us/app/copies-savior-clipboard/id1369631336?mt=12)
+- [Copistry](https://apps.apple.com/us/app/copistry/id1504966198?mt=12)
 - [CopyClip](https://apps.apple.com/us/app/copyclip-clipboard-history/id595191960?mt=12)
 - [CopyLess 2](https://apps.apple.com/us/app/copyless-2-clipboard-manager/id993841014?mt=12)
+- [CopyPaste Pro](https://plumamazing.com/product/copypaste-pro-for-mac/)
+- [CopyQ](https://hluk.github.io/CopyQ/)
+- [Copy+](https://apps.apple.com/us/app/copy-manage-clipboard-history/id1505747448?mt=12)
+- [ElephantCopy](https://apps.apple.com/us/app/elephantcopy/id1527112593?mt=12)
 - [FastClip](https://apps.apple.com/us/app/fastclip-snippets-editor/id1476085650)
+- [Favorite Text](https://www.greenworldsoft.com/favorite-text-help.php)
+- [Flycut](https://apps.apple.com/us/app/flycut-clipboard-manager/id442160987?mt=12)
+- [iClip](https://www.iclipapp.com)
+- [iLove Quick Copy](https://apps.apple.com/us/app/ilove-quick-copy/id1146262203?mt=12)
 - [iPaste](https://apps.apple.com/us/app/ipaste-clipboard-tool/id1056935452?mt=12)
 - [Jumpcut](https://snark.github.io/jumpcut/)
 - [Maccy](https://maccy.app)
+- [OmniCopy](https://apps.apple.com/us/app/omnicopy/id1211469284?mt=12)
+- [Pasta](https://apps.apple.com/us/app/pasta/id1438389787?mt=12)
+- [Pasteboard](https://github.com/liang2kl/Pasteboard)
+- [Pastebot](https://tapbots.com/pastebot/)
+- [Pasteforest](https://apps.apple.com/us/app/pasteforest/id1637507161?mt=12)
 - [PasteN](https://apps.apple.com/us/app/pasten-smart-clipboard/id1579312381?mt=12)
 - [PasteNow](https://apps.apple.com/us/app/pastenow-instant-clipboard/id1552536109)
 - [PastePal](https://apps.apple.com/us/app/pastepal-clipboard-manager/id1503446680)
@@ -538,14 +644,21 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [Pastery](https://apps.apple.com/us/app/pastery-copy-paste-history/id1620045664?mt=12)
 - [PasteTXT](https://apps.apple.com/us/app/pastetxt/id1505201563?mt=12)
 - [Pasty](https://apps.apple.com/us/app/clipboard-manager-pasty/id1544620654?mt=12)
+- [Pastyboard](https://apps.apple.com/us/app/pastyboard/id1585942797?mt=12)
 - [Plain Paste](https://apps.apple.com/us/app/plain-paste/id1225429427)
 - [Pure Paste](https://sindresorhus.com/pure-paste)
+- [Quick Clipboard](https://apps.apple.com/us/app/quick-clipboard-copy-paste/id1636064726?mt=12)
+- [uPaste](https://apps.apple.com/us/app/upaste-clipboard-manager/id1503649026?mt=12)
+- [XCopy](https://apps.apple.com/us/app/xcopy-clipboard-manager/id1618581008?mt=12)
+- [Yippy](https://yippy.mattdavo.com)
 
 ## Color Pickers
+
 - [Coloree](https://apps.apple.com/us/app/coloree/id1435299183?mt=12)
 - [Color Juicer](https://apps.apple.com/us/app/color-juicer/id1191209926?mt=12)
 - [Color Maker](https://apps.apple.com/us/app/color-maker/id561995913?mt=12)
 - [Color Peeker](https://apps.apple.com/us/app/color-peeker/id1592573138?mt=12)
+- [ColorPicker](http://www.northernspysoftware.com/software/colorpicker)
 - [Color Picker](https://apps.apple.com/us/app/color-picker-%E5%B1%8F%E5%B9%95%E5%8F%96%E8%89%B2%E5%99%A8/id1585959719?mt=12)
 - [Color.review](https://color.review)
 - [Colorsip](https://apps.apple.com/us/app/colorsip/id1516553045?mt=12)
@@ -572,10 +685,13 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [Tint](https://apps.apple.com/us/app/tint-a-better-color-picker/id1551486913?mt=12)
 
 ## Crypto
+
+- [Block Screen Bar](https://apps.apple.com/us/app/block-screen-bar/id1610870312?mt=12)
 - [Helium Monitor](https://apps.apple.com/us/app/helium-monitor/id1568899378?mt=12)
 - [The Watcher Web3 Console](https://apps.apple.com/us/app/the-watcher-web3-console/id1599608893?mt=12)
 
 ### Tickers
+
 - [Bitcoin Bar](https://apps.apple.com/us/app/bitcoin-bar/id1307938864?mt=12)
 - [Bitcoin Expert](https://apps.apple.com/us/app/bitcoin-expert/id1237809495?mt=12)
 - [Bitcoin - Live Ticker](https://apps.apple.com/us/app/bitcoin-live-ticker/id1549550669?mt=12)
@@ -603,53 +719,95 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [TickerPad](https://apps.apple.com/us/app/tickerpad/id1578860989?mt=12)
 
 ## Counting
+
 - [DayCounter](https://apps.apple.com/us/app/daycounter-d-day-countdown/id1514821100?mt=12)
 
 ## File Transfer
+
+- [cClip](https://apps.apple.com/us/app/cclip/id1582488315)
 - [Dropzone](https://aptonic.com)
 - [FTP Mounter Lite](https://apps.apple.com/us/app/ftp-mounter-lite/id1624888791?mt=12)
 - [InstaShare](http://instashareapp.com/mac.html)
 - [iPic](https://apps.apple.com/us/app/ipic-image-file-upload-tool/id1101244278?mt=12)
 - [Jumpshare](https://jumpshare.com)
+- [Octofile](https://apps.apple.com/us/app/octofile-2/id1463726615?mt=12)
 - [QuickNas](http://dosdude1.com/quicknas/)
 - [Semulov](https://github.com/kainjow/Semulov)
 - [Upload and Share for Dropbox](https://apps.apple.com/us/app/upload-and-share-for-dropbox/id1591211014?mt=12)
 - [WeTransfer](https://apps.apple.com/us/app/wetransfer-menu-bar-transfers/id1114922065?mt=12)
 
 ## Image and Video
+
 - [Alchemy](https://dawnlabs.github.io/alchemy/?ref=producthunt)
-- [Any Recorder Lite](https://apps.apple.com/us/app/any-recorder-lite/id738913756?mt=12)
 - [App for Pixabay](https://basilsalad.com/os-x/app-pixabay/?utm_campaign=MacUpdate_Pixabay&utm_source=MacUpdate&utm_medium=catalog&utm_content=StackMenu&utm_term=ProductURL)
-- [CamScanner](https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id1543833156?mt=12)
-- [CloudApp](https://www.getcloudapp.com)
 - [Dropbox Capture](https://www.dropbox.com/features/content-collaboration/screen-recorder)
-- [Easy Screen OCR](https://apps.apple.com/us/app/easy-screen-ocr/id1359663922?mt=12)
 - [Fenetre](https://getfenet.re)
+- [Quivert](https://apps.apple.com/us/app/quivert-convert-images-heic/id1618667485?mt=12)
+- [Quideo](https://apps.apple.com/us/app/quideo-convert-your-videos/id1619359160?mt=12)
+- [Union](https://apps.apple.com/us/app/union/id1455272754?mt=12)
+
+### OCR
+- [CamScanner](https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id1543833156?mt=12)
+- [Easy Screen OCR](https://apps.apple.com/us/app/easy-screen-ocr/id1359663922?mt=12)
 - [Image Text OCR](https://apps.apple.com/us/app/image-text-ocr-photo-pdf-scan/id1495787023?mt=12)
-- [iScreen Shoter](https://apps.apple.com/us/app/iscreen-shoter-screenshot-app/id1596559494?mt=12)
-- [Kap](https://github.com/wulkano/kap)
-- [Menu Snappr II](https://widgetworx.com/projects/menu_snappr.html)
-- [Monosnap](https://monosnap.com/welcome)
+- [Initiater](https://apps.apple.com/us/app/initiater/id1578490291?mt=12)
+- [LiveScan](https://apps.apple.com/us/app/livescan-grab-text-in-images/id1532663695)
 - [OwlOCR](https://apps.apple.com/us/app/owlocr-screenshot-to-text/id1499181666?mt=12)
 - [QTextify](https://apps.apple.com/us/app/qtextify-image-to-text-pro/id1605967245?mt=12)
 - [QTextify Mini](https://apps.apple.com/us/app/qtextify-mini-ocr-like-magic/id1636034079?mt=12)
-- [Quivert](https://apps.apple.com/us/app/quivert-convert-images-heic/id1618667485?mt=12)
-- [Quideo](https://apps.apple.com/us/app/quideo-convert-your-videos/id1619359160?mt=12)
-- [RetroClip](https://apps.apple.com/us/app/retroclip/id1332064978?mt=12)
-- [ScreenHint](https://apps.apple.com/us/app/screenhint/id1566621533?mt=12)
-- [Screenie](https://apps.apple.com/us/app/screenie-screenshot-manager/id965442961?mt=12)
-- [Screen-Record Lite](https://apps.apple.com/us/app/screen-record-lite/id777379796?mt=12)
-- [ScreenshotMenu](https://apps.apple.com/us/app/screenshotmenu/id562169322?mt=12)
-- [Screen Snapshot](https://apps.apple.com/us/app/screen-snapshot/id461362385?mt=12)
-- [ScreenToLayers](https://apps.apple.com/us/app/screentolayers/id1077317077?mt=12)
-- [SwordSoft Screenink Free](https://apps.apple.com/us/app/swordsoft-screenink-free/id953841977?mt=12)
 - [Textinator](https://github.com/RhetTbull/textinator)
 - [TRex](https://github.com/amebalabs/TRex)
-- [Union](https://apps.apple.com/us/app/union/id1455272754?mt=12)
+
+
+### Screenshots / Screen Recording
+- [Any Recorder Lite](https://apps.apple.com/us/app/any-recorder-lite/id738913756?mt=12)
+- [Capture Screen Lite](https://apps.apple.com/us/app/capture-screen-lite/id617602554?mt=12)
+- [CloudApp](https://www.getcloudapp.com)
+- [DreamShot](https://apps.apple.com/us/app/dreamshot-screenshot-shortcut/id689844304?mt=12)
+- [Easy Screen Recorder](https://apps.apple.com/us/app/easy-screen-recorder/id1480152694?mt=12)
+- [Filmage Screen](https://apps.apple.com/us/app/filmage-screen-screen-recorder/id1475049179?mt=12)
+- [Gerry](https://apps.apple.com/us/app/gerry-screen-recorder/id1637295586?mt=12)
+- [iCapturer](https://apps.apple.com/us/app/icapturer-screen-recording/id1602103302?mt=12)
+- [Icecream Screen Recorder](https://apps.apple.com/us/app/icecream-screen-recorder-free-version/id1114761692?mt=12)
+- [iScreen Shoter](https://apps.apple.com/us/app/iscreen-shoter-screenshot-app/id1596559494?mt=12)
+- [iShot](https://apps.apple.com/us/app/ishot-screenshot-recording-ocr/id1485844094?mt=12)
+- [Kap](https://github.com/wulkano/kap)
+- [LinRecord](https://apps.apple.com/us/app/linrecord-screen-recorder/id1511249774?mt=12)
+- [Menu Snappr II](https://widgetworx.com/projects/menu_snappr.html)
+- [Monosnap](https://monosnap.com/welcome)
+- [Pixave](https://apps.apple.com/us/app/pixave/id924891282?mt=12)
+- [RetroClip](https://apps.apple.com/us/app/retroclip/id1332064978?mt=12)
+- [Screen Capture Tool Lite](https://apps.apple.com/us/app/screen-capture-tool-lite/id837450004?mt=12)
+- [ScreenHint](https://apps.apple.com/us/app/screenhint/id1566621533?mt=12)
+- [Screenie](https://apps.apple.com/us/app/screenie-screenshot-manager/id965442961?mt=12)
+- [ScreenLapsr](https://apps.apple.com/us/app/screenlapsr-screen-timelapse/id1547174710?mt=12)
+- [Screen Recorder](https://apps.apple.com/us/app/screen-recorder-by-omi/id1592987853?mt=12)
+- [Screen Recorder](https://apps.apple.com/us/app/screen-recorder-a-screen-record-and-capture-tool/id1089858887?mt=12)
+- [Screen Recorder - EaseUS](https://apps.apple.com/us/app/screen-recorder-easeus/id1581903884?mt=12)
+- [Screen Recorder - Livestream](https://apps.apple.com/us/app/screen-recorder-livestream/id1446426702)
+- [Screen Recorder Robot Lite](https://apps.apple.com/us/app/screen-recorder-robot-lite/id731892898?mt=12)
+- [Screen Recording Tools Lite](https://apps.apple.com/us/app/screen-recording-tools-lite/id607525386?mt=12)
+- [Screen Record Lite](https://apps.apple.com/us/app/screen-record-lite/id618810021?mt=12)
+- [Screen Record Lite](https://apps.apple.com/us/app/screen-record-lite-recorder/id1047012924?mt=12)
+- [Screen Record Lite](https://apps.apple.com/us/app/screen-record-lite-hd-recorder/id1014900037?mt=12)
+- [Screen-Record Lite](https://apps.apple.com/us/app/screen-record-lite/id777379796?mt=12)
+- [Screen Record Utility Lite](https://apps.apple.com/us/app/screen-record-utility-lite/id593304220?mt=12)
+- [Screenshoter Lite](https://apps.apple.com/us/app/screenshoter-lite/id731923961?mt=12)
+- [ScreenshotMenu](https://apps.apple.com/us/app/screenshotmenu/id562169322?mt=12)
+- [Screen Snapshot](https://apps.apple.com/us/app/screen-snapshot/id461362385?mt=12)
+- [Screen Timelapse Lite](https://apps.apple.com/us/app/screen-timelapse-lite/id1452228487?mt=12)
+- [ScreenToLayers](https://apps.apple.com/us/app/screentolayers/id1077317077?mt=12)
+- [Screeny](https://apps.apple.com/us/app/screeny/id440991524?mt=12)
+- [SRecorder](https://apps.apple.com/us/app/srecorder-screen-recorder/id1583687016?mt=12)
+- [SwordSoft Screenink Free](https://apps.apple.com/us/app/swordsoft-screenink-free/id953841977?mt=12)
+- [TapRecord](https://apps.apple.com/us/app/taprecord-screen-recorder/id1624223891?mt=12)
+- [Vidline](https://apps.apple.com/us/app/vidline-screen-recorder-master/id1605706912?mt=12)
+- [Viking Recorder Lite](https://apps.apple.com/us/app/viking-recorder-lite/id1246286492?mt=12)
 - [Window Recorder](https://apps.apple.com/us/app/window-recorder/id1462766408?mt=12)
 - [Xnip](https://apps.apple.com/us/app/xnip-screenshot-annotation/id1221250572?mt=12)
 
 ### Wallpapers
+
 - [ArtWall](https://apps.apple.com/us/app/artwall/id1178151992?mt=12)
 - [Clarity Wallpaper Desktop](https://apps.apple.com/us/app/clarity-wallpaper-desktop/id1469525516?mt=12)
 - [DarkMode Wallpaper Switcher](https://apps.apple.com/us/app/dark-mode-wallpaper-switcher/id1488154568?mt=12)
@@ -660,14 +818,17 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [Plash](https://sindresorhus.com/plash)
 - [Retina 5K Wallpaper Set](https://apps.apple.com/us/app/retina-5k-wallpaper-set/id1017721370?mt=12)
 - [Unsplash Wallpapers](https://apps.apple.com/us/app/unsplash-wallpapers/id1284863847?mt=12)
+- [Wallpaperer](https://apps.apple.com/us/app/wallpaperer/id1102248738?mt=12)
 - [Wallpaper Menu](https://ylin.co)
 - [Web Wallpaper](https://widgetworx.com/projects/webwall.html)
 
 ## IoT
+
 - [Action Light](https://apps.apple.com/us/app/action-light/id626898368?mt=12)
 - [Casita](https://github.com/david-kuehn/casita)
 - [HA Menu](https://github.com/codechimp-org/ha-menu/)
 - [Homie](https://apps.apple.com/us/app/homie-menu-bar-app-for-homekit/id1533590432?mt=12)
+- [HomeAtmo Lite](https://apps.apple.com/us/app/homeatmo-lite-netatmo-client/id1437630108?mt=12)
 - [HomeConMenu](https://apps.apple.com/us/app/homeconmenu/id1615397537?mt=12)
 - [HomeWatch](https://apps.apple.com/us/app/homewatch/id1622801480)
 - [Hue in the Menu](https://apps.apple.com/us/app/hue-in-the-menu/id1534707384?mt=12)
@@ -675,25 +836,31 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [Lightbulbs](https://apps.apple.com/us/app/lightbulbs/id608214306?mt=12)
 - [MyTesla](https://github.com/pvdabeel/mytesla)
 - [NearLock](https://nearlock.me)
+- [Nikola](https://apps.apple.com/us/app/nikola/id1412473099?mt=12)
 - [QuickHue](https://github.com/danparsons/QuickHue)
 - [Scenecuts](https://apps.apple.com/us/app/scenecuts/id1540491573?mt=12)
 - [Valet for Tesla](https://teslamacapp.com)
+- [3LED: Menu bar client for LIFX](https://apps.apple.com/us/app/3led-menu-bar-client-for-lifx/id1460522983?mt=12)
 
 ## Lists/Collections
+
 - [Anybox](https://apps.apple.com/us/app/anybox-bookmark-read-later/id1593408455)
 - [BookMarkable](https://apps.apple.com/us/app/bookmarkable/id1069730726?mt=12)
 - [Dropmark Menubar](https://apps.apple.com/us/app/dropmark-menubar/id554314609?mt=12)
 - [Elenco](https://apps.apple.com/us/app/elenco-task-to-do-list/id1545612405?mt=12)
 - [Item Stock](https://apps.apple.com/us/app/item-stock/id1569290801?mt=12)
 - [Markster](https://www.sheepsystems.com/products/markster.html)
+- [Shiori](https://aki-null.net/shiori/)
 - [snīppet](https://apps.apple.com/us/app/sn%C4%ABppet/id1603296917?mt=12)
 
 ## Math
+
 - [BarConvert](https://apps.apple.com/us/app/barconvert/id1518931403)
 - [Mathpix](https://mathpix.com)
 - [Menu Bar Percent Calculator](https://apps.apple.com/us/app/menu-bar-percent-calculator/id1286560999?mt=12)
 
 ### Calculators
+
 - [CalcBar](https://apps.apple.com/us/app/calcbar/id1494615606?mt=12)
 - [Calculator Menu Bar](https://apps.apple.com/us/app/calculator-menu-bar/id1571010516?mt=12)
 - [Calculator Pro](https://apps.apple.com/us/app/calculator-pro-topbar-app/id576215086?mt=12)
@@ -705,6 +872,7 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [ScratchCalc](https://apps.apple.com/us/app/scratchcalc/id1363776916?mt=12)
 
 ## Menubar Meta-Apps
+
 - [AccessMenuBarApps](https://www.ortisoft.de/en/accessmenubarapps/)
 - [Amelita](https://limitpointstore.com/products/amelita/)
 - [Barbee - Hide Menu Bar Items](https://apps.apple.com/us/app/barbee-hide-menu-bar-items/id1548711022?mt=12)
@@ -716,28 +884,34 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [Vanilla](https://matthewpalmer.net/vanilla/)
 
 ## Organization
+
 - [Clean](https://apps.apple.com/us/app/clean/id418412301?mt=12)
 - [CleanMyDrive 2](https://apps.apple.com/us/app/cleanmydrive-2/id523620159?mt=12)
-- [Gemini II](https://macpaw.com/gemini)
+- [Gemini 2](https://macpaw.com/gemini)
 
 ### Plugin-Based Apps
+
 - [SwiftBar](https://github.com/swiftbar/SwiftBar)
 - [xbar](https://xbarapp.com)
 
 ## QR
+
 - [QRPretty](https://apps.apple.com/us/app/qrpretty-menu-bar-qr-codes/id1573669498?mt=12)
 
 ## Security
+
 - [Enpass](https://www.enpass.io)
 - [Security Growler](https://github.com/pirate/security-growler)
 
 ### Passwords
+
 - [Bitwarden Menu](https://github.com/jnsdrtlf/bitwarden-menubar)
 - [PSWD](https://apps.apple.com/us/app/pswd-password-generator/id1541482816)
 - [QuickPassword](https://apps.apple.com/us/app/quickpassword/id1066194199?mt=12)
 - [1password](https://1password.com)
 
 ## Settings
+
 - [Airplane](https://airplanemac.carrd.co)
 - [AppPolice](https://github.com/AppPolice/AppPolice)
 - [Balance Lock](https://www.tunabellysoftware.com/balance_lock/)
@@ -754,14 +928,17 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [Dynamic Dark Mode](https://github.com/ApolloZhu/Dynamic-Dark-Mode)
 - [Ears](https://retina.studio/ears/)
 - [EjectBar](https://apps.apple.com/us/app/ejectbar/id1264259104?mt=12)
+- [Eject Everything](https://github.com/mr-moon/eject-everything)
 - [Ejector](https://www.jeb.com.fr/en/ejector.shtml)
 - [eqMac](https://eqmac.app)
+- [EZSwitch](https://apps.apple.com/us/app/ezswitch/id456100738?mt=12)
 - [Heads Down](https://thearea42.com/headsdown/)
 - [Hides](https://hides.sweetpproductions.com/)
 - [Hidden Files Toggle](https://apps.apple.com/us/app/hidden-files-toggle/id1041822607?mt=12)
 - [Hiide](https://beeb.li/hiide/)
 - [Input Source Manager](https://apps.apple.com/us/app/input-source-manager/id1620396682?mt=12)
 - [Instant Audio Switcher](https://apps.apple.com/us/app/instant-audio-switcher/id1547135481?mt=12)
+- [InVisible](http://www.northernspysoftware.com/software/invisible)
 - [Light Shades](https://apps.apple.com/us/app/light-shades/id1575472001?mt=12)
 - [LinkLiar](https://github.com/halo/LinkLiar)
 - [Mauno](https://github.com/inket/Mauno)
@@ -769,6 +946,7 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [MicMüter](https://widgetworx.com/projects/micmuter.html)
 - [micSwitch](https://github.com/dstd/micSwitch)
 - [MonitorControl Lite](https://apps.apple.com/us/app/monitorcontrol-lite/id1595464182?mt=12)
+- [MonoSwitch](https://apps.apple.com/us/app/monoswitch/id1568916578?mt=12)
 - [MuteKey](https://apps.apple.com/us/app/mutekey/id1509590766?mt=12)
 - [Nightfall](https://github.com/r-thomson/Nightfall)
 - [NightOwl](https://nightowl.kramser.xyz)
@@ -794,6 +972,7 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [@home](https://beatrupp.github.io/athome/)
 
 ### Caffeinators
+
 - [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12)
 - [Caffeine](https://www.intelliscapesolutions.com/apps/caffeine)
 - [Chai](https://github.com/lvillani/chai)
@@ -810,6 +989,7 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [Sleep Expert](https://apps.apple.com/us/app/sleep-expert/id1173339541?mt=12)
 
 ### Resolution
+
 - [Displace](https://github.com/newmarcel/Displace)
 - [Display Menu](https://apps.apple.com/us/app/display-menu/id549083868?mt=12)
 - [EasyRes](https://apps.apple.com/us/app/easyres/id688211836?mt=12)
@@ -819,6 +999,8 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [RDM](https://github.com/avibrazil/RDM)
 
 ## Stocks
+
+- [Quick Commodities](https://apps.apple.com/us/app/quick-commodities/id1074532887)
 - [RH-Ticker](https://github.com/peniqliotuv/robinhood-ticker)
 - [SPicker](https://apps.apple.com/us/app/spicker/id1639548770?mt=12)
 - [Stock Ticker](https://apps.apple.com/us/app/stock-ticker/id1502923895?mt=12)
@@ -826,12 +1008,16 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [Uptick](https://apps.apple.com/us/app/uptick-stock-ticker/id1513828695?mt=12)
 
 ## Shortcuts & Launchers
+
 - [Access Menu](https://www.titanium-software.fr/en/accessmenu.html)
 - [Air Browser 2](https://apps.apple.com/us/app/air-browser-2/id1571901314?mt=12)
 - [aLaunch](http://mactips-lib.net/m/software/alaunch/en/main.html)
 - [Alfred](https://www.alfredapp.com)
+- [AppsBar](https://apps.apple.com/us/app/appsbar/id595978941?mt=12)
+- [Button 3](https://apps.apple.com/us/app/button-3/id1155342767?mt=12)
 - [Catapult](https://github.com/cerpow/catapult)
 - [Cerebro](https://cerebroapp.com)
+- [Controlax](https://apps.apple.com/us/app/controlax-computer-control/id1483428953)
 - [Drill Down](https://apps.apple.com/us/app/drill-down/id1498783167?mt=12)
 - [EasyFinder](https://apps.apple.com/us/app/easyfinder-2/id1531238115?mt=12)
 - [Fastscripts](https://redsweater.com/fastscripts/)
@@ -841,10 +1027,15 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [Folder Peek](https://apps.apple.com/us/app/folder-peek/id1615988943?mt=12)
 - [Fresh](https://apps.apple.com/us/app/fresh-4/id1540622464?mt=12)
 - [HighTop Files](https://apps.apple.com/us/app/hightop-files/id1529666842?mt=12)
+- [Homerow](https://www.homerow.app)
 - [HotKey](https://apps.apple.com/us/app/hotkey-app/id975890633?mt=12)
+- [HotLaunch](https://apps.apple.com/us/app/hotlaunch-app-launcher/id1570656803?mt=12)
+- [Hungrymark Lite](https://apps.apple.com/us/app/hungrymark-lite/id1559666390?mt=12)
+- [iCollections](https://apps.apple.com/us/app/icollections/id1039609816?mt=12)
 - [iOpen](https://apps.apple.com/us/app/iopen-shortcut-for-files/id1571096131?mt=12)
 - [Launchey](https://www.getniceapps.com/launchey-2)
 - [Macarte](https://apps.apple.com/us/app/macarte-menu-to-switch-apps/id1573769710?mt=12)
+- [Magical Launchbox](https://apps.apple.com/us/app/magical-launchbox/id1631006388?mt=12)
 - [Menu Bar Dock](https://www.menubardock.com)
 - [Menu Bar Quick Links](https://apps.apple.com/us/app/menu-bar-quick-links/id1623392501?mt=12)
 - [MenuBarX](https://apps.apple.com/us/app/menubarx/id1575588022?mt=12)
@@ -865,16 +1056,21 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [Skywhale](https://apps.apple.com/us/app/skywhale-menu-bar-browser/id1609165212?mt=12)
 - [Slapdash](https://slapdash.com)
 - [Slik](https://apps.inspira.io/en/slik/)
+- [start](https://apps.apple.com/us/app/start/id1329701389?mt=12)
 - [Switcheroo](https://apps.apple.com/us/app/switcheroo-fast-app-switcher/id1198084875?mt=12)
 - [Tab Switcher](https://apps.apple.com/us/app/tabs-switcher/id1406718335?mt=12)
+- [Tabz](https://apps.apple.com/us/app/tabz/id1449417295?mt=12)
 - [Thor](https://github.com/gbammc/Thor)
+- [uDock](https://apps.apple.com/us/app/udock/id1563545181?mt=12)
 - [Unite](https://www.bzgapps.com/unite)
 - [Workspace Pro](https://workspaceproapp.com)
 - [XMenu](https://apps.apple.com/us/app/xmenu/id419332741?mt=12)
 
 ## Text
+
 - [AnyIpsum](https://github.com/jlowgren/AnyIpsum)
 - [BarCounter](https://apps.apple.com/us/app/barcounter-just-copy-to-count/id1464372559?mt=12)
+- [Clear Clipboard Text Format](https://apps.apple.com/us/app/clear-clipboard-text-format/id1322855232?mt=12)
 - [Esse](https://apps.apple.com/us/app/esse/id1438921989)
 - [FlipTable](https://sites.google.com/view/saigonmd-flippy/home)
 - [iText OCR & Translator](https://apps.apple.com/us/app/itext-ocr-translator/id1314980676?mt=12)
@@ -886,13 +1082,18 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [Oversetter](https://4gray.github.io/oversetter/)
 - [Rocket](https://matthewpalmer.net/rocket/)
 - [Short Menu URL Shortener](https://shortmenu.com/mac/)
+- [SmartPaste](https://apps.apple.com/us/app/smartpaste/id1540496001?mt=12)
 - [Spelling Alphabet](https://www.tunabellysoftware.com/spelling_alphabet/)
 - [TextSoap Menu](https://apps.apple.com/us/app/textsoap-menu/id525517698?mt=12)
 - [Tiny Ipsum](https://apps.apple.com/us/app/tiny-ipsum/id1445179392?mt=12)
+- [Tooth Paste](https://apps.apple.com/us/app/tooth-paste/id1134161004?mt=12)
 - [Troogle Translator](https://apps.apple.com/us/app/troogle-translator/id1626623216?mt=12)
 - [Type Tips](https://apps.apple.com/us/app/type-tips/id1330269049?mt=12)
+- [Vizion](https://apps.apple.com/us/app/vizion-text-snipper/id1637685810?mt=12)
 
 ### Translation
+
+- [BarTranslate](https://github.com/ThijmenDam/BarTranslate)
 - [Bubble Translate](https://apps.apple.com/us/app/bubble-translate-3/id1439344351?mt=12)
 - [DeepL](https://www.deepl.com/en/app/)
 - [Intelligent Translator](https://apps.apple.com/us/app/intelligent-translator/id1217010477?mt=12)
@@ -906,20 +1107,24 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [Translator X](https://apps.apple.com/us/app/translator-x-ocr-tool/id1467716481?mt=12)
 
 ## Time
+
 - [BackgroundClock](https://apps.apple.com/us/app/backgroundclock/id1060642287?mt=12)
 - [Beagle - Fancy MenuBar Clock](https://apps.apple.com/us/app/beagle-fancy-menubar-clock/id1410853764?mt=12)
 - [Big Clock](https://apps.apple.com/us/app/big-clock/id1193238959?mt=12)
 - [dotBeat](https://github.com/amiantos/dotbeat)
+- [EpochClock](https://apps.apple.com/us/app/epochclock/id471739929?mt=12)
 - [FuzzyTime](https://apps.apple.com/us/app/fuzzytime/id950297057?mt=12)
 - [iClock S](https://apps.apple.com/us/app/iclock-s-clocks-chimes-alarms/id1387377422?mt=12)
 - [SubClock Lite](https://apps.apple.com/us/app/subclock-lite/id1501776505?mt=12)
 - [WordTime](https://github.com/Demonstrandum/WordTime)
 
 ### Timezones & World Time
+
 - [Clocker](https://apps.apple.com/us/app/clocker/id1056643111?mt=12)
 - [Clockey](https://www.getniceapps.com/clockey-2)
 - [Flashly - Time Zone Converter](https://apps.apple.com/us/app/flashly-time-zone-converter/id1513749324?mt=12)
 - [Hour - World Clock](https://apps.apple.com/us/app/hour-world-clock/id569089415?mt=12)
+- [Hovrly](https://hovrly.com)
 - [Menu World Time](https://apps.apple.com/us/app/menu-world-time/id1446377255?mt=12)
 - [Status Clock](https://apps.apple.com/us/app/status-clock/id552792489?mt=12)
 - [There](https://there.pm)
@@ -927,6 +1132,7 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [World Time](https://apps.apple.com/us/app/world-time-a-menu-bar-app/id1635059130?mt=12)
 
 ### UTC Time
+
 - [Menu Bar UTC](https://apps.apple.com/us/app/menu-bar-utc/id1505489419?mt=12)
 - [TimeUTC](https://apps.apple.com/us/app/timeutc/id1293572792?mt=12)
 - [UTC and Local Time](https://apps.apple.com/us/app/utc-and-local-time/id1062760018?mt=12)
@@ -934,6 +1140,7 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [ISO8601](https://apps.apple.com/us/app/iso8601/id1505772375?mt=12)
 
 ## Weather
+
 - [Air](https://github.com/Gabriel-Lewis/Air)
 - [Big Weather](https://apps.apple.com/us/app/big-weather/id1531449281?mt=12)
 - [Dear Sun](https://apps.apple.com/us/app/dear-sun/id1580614999?mt=12)
@@ -952,6 +1159,7 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [Weather Widget](https://apps.apple.com/us/app/weather-widget-live/id1235020875?mt=12)
 
 ## Window Management
+
 - [Later](https://getlater.app)
 - [Magnet](https://apps.apple.com/us/app/magnet/id441258766?mt=12)
 - [MaxSnap](https://noteifyapp.com/maxsnap-mac-window-manager/)
@@ -965,12 +1173,17 @@ This is a regularly updated post featuring macOS menu bar apps organized by area
 - [Window Manager](https://fiplab.com/apps/window-manager-for-mac)
 
 # Web Search
+
 - [GTab](https://apps.apple.com/us/app/gtab/id513330020?mt=12)
+- [Guso](https://apps.apple.com/us/app/guso-web-search-effortlessly/id1434234265?mt=12)
 - [Menupedia](https://widgetworx.com/projects/menupedia.html)
+- [Phlo](https://apps.apple.com/us/app/phlo-quick-search-box/id547094813?mt=12)
 - [Wiki Tab](https://apps.apple.com/us/app/wiki-tab/id507855722?mt=12)
 
 # Other
+
 - [Chord Detector](https://apps.apple.com/us/app/chord-detector/id1219549675?mt=12)
 - [KeyBell](https://alexdenk.eu/mywork/keybell.html)
+- [OnCue](https://apps.apple.com/us/app/oncue/id474607978?mt=12)
 - [PixelSnap](https://getpixelsnap.com)
 - [Tikey](https://apps.apple.com/us/app/tikey-typing-is-more-rhythmic/id1615879359?mt=12)
