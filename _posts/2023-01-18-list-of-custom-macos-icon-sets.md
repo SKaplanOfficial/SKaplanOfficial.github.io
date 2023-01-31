@@ -21,15 +21,17 @@ This is a regularly updated list of custom icon sets for macOS.
 - [jtraf's Syrcles Icons](https://www.deviantart.com/jtraf/art/Syrcles-Icons-354400839)
 - [KeithStoodley's Chartreuse Circles Icons](https://www.deviantart.com/keithstoodley/art/Chartreuse-Circles-Icons-871277803)
 - [MatiasAM's iOS7-ish Style Icons](https://www.deviantart.com/matiasam/art/iOS7-ish-Style-Icons-for-OS-X-UPDATED-X2-396406106)
+- [Maustinstar's MacOS Skin Icons](https://github.com/maustinstar/MacOS-Skin)
 - [memovasig's Icons Geo](https://www.deviantart.com/memovaslg/art/Icons-Geo-398771837)
 - [osullivanluke's Frost Pro Icon Set](https://www.deviantart.com/osullivanluke/art/FROST-PRO-for-OS-X-ICON-SET-now-FREE-456581131)
 - [oviotti's Apps from macOS Catalina](https://www.deviantart.com/oviotti/art/Apps-from-macOS-Catalina-800463263)
 - [scafer31000's Falder App Icons](https://www.deviantart.com/scafer31000/art/Flader-82-default-icons-for-Apple-app-Mac-os-X-474131372)
+- [shanicons' Ice Cream Icons for Yosemite](https://www.deviantart.com/shanicons/art/Ice-Cream-Icons-for-Yosemite-527893834)
 - [shapshapy's Folder Icons](https://www.deviantart.com/shapshapy/art/Folder-icons-268103181)
 - [xenatt's The Circle Icons](https://www.deviantart.com/xenatt/art/The-CIRCLE-ICONS-376199547)
 - [Xethoz's Transparent Desktop Folders](https://www.deviantart.com/xethoz/art/Transparent-Desktop-Folders-for-OS-X-Yosemite-493703663)
 
-# Characterized / Personified
+# Characters / Personified
 - [artcoreillustration's Artcore Icons](https://www.deviantart.com/artcoreillustrations/art/Artcore-Icons-Nr-5-183907294)
 
 # Colorful
@@ -50,11 +52,12 @@ This is a regularly updated list of custom icon sets for macOS.
 - [JasonZigrino's OS X Yosemite Devices](https://www.deviantart.com/jasonzigrino/art/OS-X-Yosemite-Devices-522944234)
 - [McDo Design's Chums Icons](https://iconarchive.com/show/chums-icons-by-mcdo-design.html)
 
-# File/Item Types
+# File/Container Types
 - [allannyholm's EXO-HDD Icons](https://www.deviantart.com/allannyholm/art/Exo-hdd-873293320)
 - [allannyholm's macOS Mojave-style folders](https://www.deviantart.com/allannyholm/art/macOS-mojave-style-folders-750528390)
 - [Atopsy's iOS 7 Style System Folders](https://www.deviantart.com/atopsy/art/iOS-7-Style-System-Folders-454935307)
 - [BlackVariant's Buttion UI Alternative System Folders](https://www.deviantart.com/blackvariant/art/Button-UI-Alternative-System-Folders-522933398)
+- [Delta909's Aquave Aluminum Folder Icons](https://www.deviantart.com/delta909/art/Aquave-Aluminum-92420873)
 - [ekliptikz's Snow Leopard Folder Colors Icons](https://www.deviantart.com/ekliptikz/art/Snow-Leopard-Folder-Colors-162730433)
 - [eth-p's Mac Folder Icons](https://github.com/eth-p/mac-icons)
 - [Gpopper's Yosemite Gray Standard Folder Icons](https://www.deviantart.com/gpopper/art/Yosemite-Gray-Standard-Folder-Icons-547208015)
@@ -65,8 +68,9 @@ This is a regularly updated list of custom icon sets for macOS.
 - [JasonZigrino's OS X Yosemite Drives](https://www.deviantart.com/jasonzigrino/art/OS-X-Yosemite-Drives-476685369)
 - [KeithStoodley's Kandy Folders Icons](https://www.deviantart.com/keithstoodley/art/Kandy-Folders-Icons-868501408)
 - [KeithStoodley's Sur 10 Folders Icons](https://www.deviantart.com/keithstoodley/art/Sur-10-Folders-Icons-872128253)
-- [komfort-zone's Big Sur | Monterey | Ventura HDs Icon Set](https://www.deviantart.com/komfort-zone/art/Big-Sur-Monterey-Ventura-HDs-892048233)
+- [komfort-zone's Big Sur, Monterey, & Ventura HDs Icon Set](https://www.deviantart.com/komfort-zone/art/Big-Sur-Monterey-Ventura-HDs-892048233)
 - [komfort-zone's Macintosh HD Icons](https://www.deviantart.com/komfort-zone/art/Macintosh-HD-Icons-843998719)
+- [LordKokkei's Alumin Fortis Remix Folder Icons](https://www.deviantart.com/lordkokkei/art/Alumin-Fortis-Remix-168676144)
 - [Mac OS 7, 8, & 9 default hard drive icons](https://www.macintoshrepository.org/1365-mac-os-7-8-9-default-hard-drive-icons)
 - [Maiguri's macOS Big Sur Folders](https://www.deviantart.com/maiguris/art/macOS-Big-Sur-Maiguris-Folders-872363441)
 - [MDGraph's Screen Drives Icon Set](https://www.deviantart.com/mdgraphs/art/Screen-Drives-187240156)
@@ -88,6 +92,7 @@ This is a regularly updated list of custom icon sets for macOS.
 - [Thvg's Slick Drives Remake](https://www.deviantart.com/thvg/art/Slick-Drives-Remake-118519738)
 - [Thvg's WiiFolders](https://www.deviantart.com/thvg/art/WiiFolders-85545462)
 - [valvator's Flat iCons Folders](https://www.deviantart.com/valvator/art/Flat-iCons-Folders-2016-622844478)
+- [xazac87's Colorflow Folder Icon Set](https://www.deviantart.com/xazac87/art/Colorflow-Icon-Set-103745146)
 
 # Flat
 - [BlackVariant's Shadow134 Application Icons Pack](https://www.deviantart.com/blackvariant/art/Shadow135-Application-Icons-Pack-1-523567653)
@@ -100,6 +105,9 @@ This is a regularly updated list of custom icon sets for macOS.
 - [tinalatif's flat.icns Icon Set](https://github.com/tinalatif/flat.icns)
 - [valvator's Flat iCons](https://www.deviantart.com/valvator/art/Flat-iCons-Applications-2016-625301573)
 
+# Hand-drawn
+- [Fabs' HandIcons](https://github.com/Fabs/HandIcons)
+
 # iOS-esque
 - [BlackVariant's iOS7 / iOS 8 Icons](https://www.deviantart.com/blackvariant/art/Assorted-iOS7-iOS8-Icons-for-OS-X-470649038)
 - [EatosDesign's iOS 8 Icons](https://www.deviantart.com/eatosdesign/art/iOS-8-Icons-400495332)
@@ -109,6 +117,7 @@ This is a regularly updated list of custom icon sets for macOS.
 # macOS/OS X-esque (+previous macOS versions)
 - [Ampeross' Smooth App Icons](https://www.deviantart.com/ampeross/art/Icons-465790112)
 - [Ben Vessey's OS (Old School) Icons](https://www.benvessey.com/mac-old-school)
+- [Carlos Melegrito's Bondi Icon Set](https://bondi-icons.com)
 - [cjmlgrto's Glacier Icons](https://glaciericons.com)
 - [iAdams93's StylemacOS Theme](https://www.deviantart.com/iadams93/art/StylemacOS-THEME-for-macOS-674744949)
 - [iconfactory's World of Aqua Icon Set](https://freeware.iconfactory.com/preview/woa1)
@@ -122,6 +131,7 @@ This is a regularly updated list of custom icon sets for macOS.
 - [AaronOlive's Simple Icons](https://www.deviantart.com/aaronolive/art/Simple-Icons-749231769)
 - [amanchokshi's Retro Icons](https://github.com/amanchokshi/retro-icons)
 - [BlackVariant's Shadow134 System Icons](https://www.deviantart.com/blackvariant/art/Shadow135-System-Icons-523562989)
+- [Brian Mock's Pixel Folders Icon Set](https://pixel-folders.wavebeem.com)
 - [brsev's Corollary Icons](https://www.deviantart.com/brsev/art/Corollary-192747734)
 - [brsev's Mnml Icon Set](https://www.deviantart.com/brsev/art/Mnml-Icon-Set-106367676)
 - [jtraf's Qoncept Icon Set](https://www.deviantart.com/jtraf/art/Qoncept-Icons-372032769)
@@ -134,19 +144,26 @@ This is a regularly updated list of custom icon sets for macOS.
 # Outlined
 - [Hopstarter's Gloss Mac Icons](https://iconarchive.com/show/gloss-mac-icons-by-hopstarter.html)
 
+# Rectangular
+- [pawelacb's Quilook App Icon Set](https://www.deviantart.com/pawelacb/art/Quilook-Apps-icon-set-175366065)
+- [pawelacb's Quilook 2 App Icon Set](https://www.deviantart.com/pawelacb/art/Quilook-2-set-apps-icons-175421323)
+
 # Reflections
 - [MAGNUMHEARTED's iCon Mac Dock Icons](https://www.deviantart.com/magnumhearted/art/Mac-Dock-Icons-The-iCon-151583728)
 
 # Squircles
 - [Abylaiazh's Rounded Edges Icon Set](https://www.deviantart.com/abylaiazh/art/Rounded-Edges-551839545)
 - [GrimlocK38's Everyth7ng Icon Set](https://www.deviantart.com/grimlock38/art/50-icons-iOS7-For-Mac-387592590)
-- [Jobauma's macOS Mojave Icon Pack](https://www.deviantart.com/jobauma/art/Jobauma-Icon-Pack-macOS-Mojave-Icons-782683133)
-- [jtraf's Convy Icons](https://www.deviantart.com/jtraf/art/Convy-Icons-378058444)
-- [jtraf's Greyish Icons](https://www.deviantart.com/jtraf/art/Greyish-Icons-393240186)
 - [Hopstarter's Book Icons](https://iconarchive.com/show/book-icons-by-hopstarter.html)
 - [Hopstarter's Rounded Square Icons](https://iconarchive.com/show/rounded-square-icons-by-hopstarter.html)
+- [Jobauma's macOS Mojave Icon Pack](https://www.deviantart.com/jobauma/art/Jobauma-Icon-Pack-macOS-Mojave-Icons-782683133)
+- [jorgenwoldengen's Black iOS Icons for Mac](https://www.deviantart.com/jorgenwoldengen/art/IOS-Icons-for-Mac-Black-490227246)
+- [jtraf's Convy Icons](https://www.deviantart.com/jtraf/art/Convy-Icons-378058444)
+- [jtraf's Greyish Icons](https://www.deviantart.com/jtraf/art/Greyish-Icons-393240186)
 - [Maiguris' macOS Big Sur Icons](https://www.deviantart.com/maiguris/art/macOS-Big-Sur-Maiguris-Icons-872026658)
+- [Mikel Lucišin's macOS Big Sur Icon Pack](https://www.behance.net/gallery/99460963/macOS-Big-Sur-Icon-Pack?locale=en_US)
 - [oviotti's Tile Icons](https://www.deviantart.com/oviotti/art/Tile-Icons-A-macOS-Iconpack-848741448)
+- [Raven Yu's Discipline macOS Big Sur Icons](https://ravenyu.com/discipline)
 
 # Symbolic
 - [brsev's Token Icon Set](https://www.deviantart.com/brsev/art/Token-128429570)
